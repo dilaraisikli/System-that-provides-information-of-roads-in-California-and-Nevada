@@ -1,12 +1,8 @@
-# Algorithmic Methods for Data Mining - Homework 5
-Repository for ADM - HW5
-
-Made by Group #6, also known as: *Dilara Isikli* , *Flaminia Spasiano* & *Mechket Ben Messaoud*.
 ![Alt Text](https://1igc0ojossa412h1e3ek8d1w-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/9780921338390.jpg)
 
 **Goal of the homework**
 
-In this homework, we built a system that provides users with information about roads in California and Nevada. Specifically, the implementation of the system consists of two parts. 
+In this project, we built a system that provides users with information about roads in California and Nevada. Specifically, the implementation of the system consists of two parts. 
 
 * __Backend:__ where we need developed algorithms that define the *functionalities of the system*
 * __Frontend:__ where we provide *visualization for queries entered by the user*
