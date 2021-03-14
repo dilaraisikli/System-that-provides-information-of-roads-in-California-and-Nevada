@@ -8,9 +8,9 @@ In this project, we built a system that provides users with information about ro
 * __Frontend:__ where we provide *visualization for queries entered by the user*
 
  
- The repository contais:
+ The repository contains:
  * ```functionality1.py```: A module that implements functions for *Functionality 1- Find the Neighbours!*
- * ```functionality2.py```: A module that implements functions for *Functionality 2- Find the martest Network!*
+ * ```functionality2.py```: A module that implements functions for *Functionality 2- Find the Smartest Network!*
  * ```functionality3.py```: A module that implements functions for *Functionality 3 - Shortest Ordered Route!*
  * ```functionality4.py```: A module that implements functions for *Functionality 4 - Shortest Route!*
  * ```main.py```: a Python script which executes the whole system. It ask some inputs and provide the right outputs.
